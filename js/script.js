@@ -1,32 +1,4 @@
-/*
-	17.11.2013
-	
-	I'll need:
-	
-	1. Prototype for the products/components of the PC
-	   Attributes: name, price, manufacturer, release date, description, warranty, type(e.g. 1 for mobo, 2 for hdd?
 
-	   
-	Each component will be stored in an array.
-	Each customer will be stored in an array.
-
-	Local storage - to remember customer choices in case of an accidental exit of the page...
-	Wipe local storage when the customer has pressed the PAY button.
-	
-	Arrays for each component e.g. motherboard, hdd, graphics card, etc...
-	
-	18/11/2013
-
-	To do:
-	
-	set that local storage contains the user picked pc parts
-	
-	change the name of the function that determines which option has been selected from the select box (currently: changeDescriptionText(selectBox))
-	
-	21/11/2013
-	
-	the application keeps track of the actual cost of the user chosen products
-*/
 
 // variables
 var totalCost = 0;
