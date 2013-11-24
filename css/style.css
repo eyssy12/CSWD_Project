@@ -1,0 +1,189 @@
+
+
+
+input[type="text"]
+{
+	width:13em;
+	margin-left:5px;
+	margin-top:3px;
+	height:20px;
+	font-size:16px;
+}
+
+
+input[type="button"]
+{
+	width:32%;
+	margin-left:10px;
+	margin-top:15px;
+	height:35px;
+	font-size:18px;
+}
+
+
+label
+{
+	padding:5px;
+}
+
+.details
+{
+	width:100%;
+}
+
+body
+{
+	background-color: black;
+}
+
+#wrapper
+{
+	position:absolute;
+	width:99.6%;
+	height:90%;
+	
+	border:3px solid black;
+}
+
+#menu
+{
+	color:white;
+	position:relative;
+	width:99.9%;
+	height:10%;
+	background-color:navy;
+	
+	text-align:center;
+    border:1px solid white;
+	line-height: 35px;  
+    vertical-align:middle;
+}
+
+#container
+{
+	position:absolute;
+	top:10px;
+	left:10px;
+	height: 400px;
+	width: 98.5%;
+	background-color: white;
+	overflow: hidden;
+	
+	
+}
+
+#table
+{
+	position:absolute;
+	width:33%;
+	height:100%;
+	
+	background-color:#BDBDBD;
+}
+
+#components
+{
+
+}
+
+#description
+{
+	position:absolute;
+	height:100%;
+	margin-left:33%;
+	width:33%;
+	border-left:1px solid black;
+}
+
+#summary
+{
+	position:relative;
+	margin-left:66%;
+	height:100%;
+	border-left:1px solid black;
+}
+
+#totalsProductType
+{
+	
+}
+
+.forceLeft
+{
+	margin-left:10px;
+	float:left;
+	text-align:left;
+}
+
+.forceRight
+{
+	margin-right:20px;
+	text-align:right;
+}
+
+#totalCost
+{
+	margin-right:20px;
+	text-align:right;
+}
+
+#totalsContainer
+{
+	position:absolute;
+	margin-left:50%;
+	width:50%;
+	height:100%;
+	
+	background-color:white;
+	border-left:1px solid black;
+}
+
+#totals
+{
+	
+}
+
+#customerDetails
+{
+	position:absolute;
+	background-color:#BDBDBD;
+	padding-top:5px;
+	height:100%;
+	width:50%;
+}
+
+#buttonPanel
+{
+	position:absolute;
+	top:415px;
+	height:70px;
+	margin-left:5px;
+	width: 99%;
+	
+	border:1px solid white;
+	background-color:brown;
+}
+
+.btnGreenHover:hover
+{
+	color:green;
+}
+
+.btnRedHover:hover
+{
+	color:red;
+}
+
+#footer
+{		
+	position:absolute;
+	top:700px;
+	left:10px;
+	height:20px;
+	width:98%;
+	
+	
+	background-color:#FFA500;
+	clear:both;
+	text-align:center;
+}
