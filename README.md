@@ -1,4 +1,4 @@
 CSWD_Project
 ============
 
-Dynamic Web Application using common web technologies.
+College Assignment - Dynamic Web Application using common web technologies.
